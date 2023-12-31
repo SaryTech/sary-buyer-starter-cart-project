@@ -389,6 +389,3 @@ class Main:
 if __name__ == "__main__":
     main_app = Main()
     main_app.run()
-
-#WIP - The model invocation has some bugs that need to be fixed prior to calculating the Hit Rate
-# The invocation under invoking_model.py works fine
